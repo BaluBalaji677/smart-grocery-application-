@@ -1,4 +1,2 @@
 hi all
-hii im shashi
-get the project ready
-hi
+im shahsi is that the code is ready
